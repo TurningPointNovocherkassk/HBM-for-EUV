@@ -1,0 +1,282 @@
+﻿armenian_language = {
+	color = map_ARM
+
+	male_names = {
+		Abas Abirad Aboughamr Aboulgharib name_abraham name_alexander Arakel Ardeshir name_aram Ari Armen name_arsenios Arshak Arshavir Artashes Artashir Artavazd Ashot Athom Atrnerseh name_avag Avedis
+		Badouagan Bagour name_bagrat Bedros Berjouhi Boghos
+		Davit 
+		Eshkhan
+		Gagik Gevorg Ghoukas Gosdantin Grigor Gurgen Gyulnara
+		Hagop Hakob Hamazasp Hayk name_hethum Hovhannes Hovsep
+		Ishkhan name_john
+		Jirair
+		Kapriel Karayan Kevork Khachik Khajag Khosrau Khosrov Krikor
+		Levon name_lupus
+		Malkhas Mamigon name_emmanuel Margos Melek Mihrdat Mikayel Mkhitar Mleh Movses Musegh Mushel Mzhezh
+		Nairi Narineh Narses Nerseh
+		name_oshin
+		Petros Poghos
+		Roupen
+		Sahak Samvel Sarkis Sevag Sevan Smbat 
+		Tachar Taniel name_theodore Tigran
+		Vagram Vahan 
+		Zadig Zoravan                               
+	}
+	female_names = {
+		Aghavni Alitz Almasd Anahit Ani name_anna Anoush Arda Arevig Arin 
+		Baydzar Berjanoush Berjouhi
+        Dalita Datevig  
+		Elen Eliz  
+		Gadar Gorandoukht  
+		Hasmig Houri Hranoush Hripsimeh        
+        Keghanoush Keran Khorishah Kohar 
+		Latavri Leyli Lousin 
+		Mara Margarid name_mary Mariyam Mariam Meghranoush name_milena
+		Nane Nazani 
+		Ovsanna 
+		Pounig 
+		Razmouhi Rita 
+		Satenik Satinik Seta Siran Sirvart Srpouhi Shoushanig 
+		Takouhi name_tamara  
+		Vartanoush Vartouhi Vosgi 
+		Yeva 
+		Zabel	
+	}
+	dynasty_names = {
+		Abamelik Amatuni
+		Bagdazarian Bagratuni Bebutov
+		Khojaminasishvili
+		Melikov
+		Orbelid
+		Pahlavuni
+		Rubenid
+        Tumanishvili
+	}
+	lowborn = {
+		Avetisyan
+		Davtyan
+		Gevorgyan Grigoryan
+		Hakobyan Hovhannisyan
+		Mkhitaryan
+		Petrosyan Poghosyan
+		Sargsyan
+		Vardanyan
+	}
+	
+	# to override the default adjective and noun database for cultural works
+	#adjective = {
+	#}
+	#noun = {
+	#}
+
+}
+
+georgian_language = {
+	color = map_GEO
+
+	male_names = {
+		Adarnase Aghsartan Aleksandre Andronik Anzori Archil Ashot Atrnerseh
+		name_bagrat Bagour Bakar Bakur Bebur Birtveli
+		Davit name_demetrius Demna Djavakhi Djurkha
+		Erekle
+		name_gabriel Gagik Giorgi Grigoli Guaram Gubaz Gulikho Gurgen 
+		Ioane Ishkhanik Iveri
+		Jarji Jesse
+		Kaihosro Kakhi Kartlos Keykhosrau Koba Koki name_constantine Kvarkvare Kviria Kvirike
+		Levan Luarsab Lukhum name_lupus
+		Malkhas Malkhazi Mamia Merab Mikheil Mukhran Mushni
+		Nerse  Nikoloz
+		Okhropir Orbeli
+		Padla
+		Revaz Rostom
+		Samoeli Shanshe name_simeon Shota Stepanoz Sumbat
+		Takha Teimuraz Torgva Tornike Tsotne
+		Ushisha
+		Vache name_vakhtang  
+		Xareba
+		Zurab Zviad    
+	}
+	female_names = {
+		Ana  
+		Baia Bedisa Borena 
+		Chiora Chito 
+		Dali Dedika Duda Dzabuli 
+		Elene Eliso Endzela
+        Gogutsa Gulchara Guliko Gulisa Gulvardi Gurandukht Gvantsa 
+		Ia 
+		Judjuna 
+		Kekela Ketevan 
+		Lamara Lamzira Lela
+		Mariami Mariam Mathiko Mthvarisa Mzekhar
+		Natia name_nino
+		name_rusudan
+		Sanatha Shorena Shukhia Suliko
+		name_tamara Taplo Tinatini Tsiala 
+		Vardo	
+	}
+	dynasty_names = {
+		Bagrationi Mukhrani
+	}
+	lowborn = {
+		Beridze Bolkvadze	
+		Gelashvili Giorgadze
+		Kapanadze Kvaratskhelia
+		Maisuradze Nozadze
+		Lomidze
+		Tsiklauri
+	}
+	
+	# to override the default adjective and noun database for cultural works
+	#adjective = {
+	#}
+	#noun = {
+	#}
+
+}
+
+circassian_language = {	#Technically split into West and East Circassian, but in favor to keep number of languages low it is combined into one
+	color = map_CIR
+
+	male_names = {
+		Petrezok Verzacht Belzebuk Parsabok Smbat Stepanos name_stephen Tachat Taniel name_daniel Tatoul Tigran
+		Tornik Tovmas name_thomas name_theodore Trdat Vache Vachagan Vagharshak Vahag Vahan name_vahram Vakhtank Varazdat
+		Vartan Vassak Vesd Vrtanes name_zechariah Zarmihr
+		
+		Bougatchik Tanachouk Sibok Atsymtchouk Toutaryk Ezgbold Koudadik Kavklytch Kanoukov 
+		Temriouk Tazriout Tchiourak Baachik Machik Boulgairouk Namstriouk Chopchouk 
+		Mait Kanboulat Koudenet Khoudenet Otchikan Damaniouk Domaniouk Isbouldoug Anzarouk 
+		Chimgalei Kanglytchev Bitemriouk Cholokh Tachbsaroukov Papchouk Oslonbek Iansokh 
+		Kaitouk Nastriouk Nartchov Pchimakha Ademir Kazanalp Boudatcheis Sountchelei 
+		Olegouk Khotokiouki Ildar Tchapolov Saltankoul Saouslan Tazryt Okhlov Moudar 
+		Kounmourza Kanchov Slanbek inarmas Klytch Sataltanmagnout Kazy
+	}
+	female_names = {
+		Zuliyzhan Susane Babishe Zmroukhd Adrine Elsapet Sarine Khazbiika Kheeda Kurbiika name_leyla Laliita Lamaara Liiza Looli 
+		Lulii Maali Maaret Madiina Makka Maliika Malkan Marjam Marzhan Milaana Nurbiika Nurishat Nuura 
+		Peet_mat #Peet'mat
+		Qoqa
+	}
+	dynasty_names = {
+		Guaye Adamiy Abzakh Zhaney Mamkhegh Mokhosh Natukhai Temirgoy
+		Hatuqwai Khegaik Khetuk Cobein Shapsug Beslenei Ubykh Tazryt Okhlov
+	}
+	lowborn = {
+	}
+	
+	# to override the default adjective and noun database for cultural works
+	#adjective = {
+	#}
+	#noun = {
+	#}
+}
+
+alanic_language = {
+	color = map_ALN
+
+	family = iranic_language_family
+
+	male_names = {
+		# Christian
+		name_aaron name_adam name_alexander name_alexis name_andrew name_anthony name_barnabas name_bartholomew name_basil name_christopher name_christodoulos
+		name_constantine name_cyriac name_cyril name_daniel name_david name_demetrius name_elias name_emmanuel name_florus name_gabriel name_george name_hermes
+		name_isaac name_ishmael name_james name_jesus name_job name_baptiste name_angel name_john name_jonas name_joseph name_lazarus name_leon name_lucas
+		name_mark name_matthew name_michael name_moses name_michael.name_gabriel name_nicholas name_noah name_panagiotis name_paul name_peter name_philip
+		name_prokop name_roman name_saba name_samuel name_sebastian name_seth name_silas name_simeon name_salomon name_stephen name_thaddeus name_theodore
+		name_thomas name_timothy name_trofim name_seraphin name_blaise name_clement name_paraskevi name_ephraim name_nazar name_nicetas name_nicodemus name_nikephoros
+		name_theophylact name_anatoly name_athanasius name_damian name_cosmas name_macarius name_panteleimon name_stavros name_theophilus name_obadiah name_theognis
+		name_theostiriktos name_theosebes
+		# Turkic
+		Džambek Džambolat Džantemir Soslænbek Irbek Tætærqan Tugan Aslænbek Bekyzæ Kurban Tætærtupp Kazbek Batyradz Aslæn Akhsær Akhsærbek Akhsærtæg Astæn
+		Ruslæn Tæymuræz
+		# Native Alanic
+		Albek Æfsati Alægatæ Anigol Atsa Atsamaz Afako name_alan
+		Ækhsær Ækhsærtæg Bakhva Barastyr Besik Borkhuarali Džakhot Džæuyg Elbyžyqo Gæmæt Gatag Khalbruz Huyædon hæmyts Khetag Khoraældar Ældar Kurdalægon Kuyžæg
+		Safa Sakhandžeri Sarmat Saubarag Sauarmæg Seqa Soslæn Sozyr Sozyryqo Syrdon Tætærtupp Torez Totraž Tsomaq Tsotsoko Uarkhag Uarkhaga Uyryzmag Znaur
+	}
+	female_names = {
+		name_anna name_catherine name_christine name_elizabeth name_ester name_eve name_hagar name_helen name_irene name_leah name_lydia name_mary
+		name_phoebe name_priscilla name_rachel name_rebecca name_ruth name_sara name_sebastianne name_sophia name_susan name_tabitha name_theodora
+		name_zenobia name_zoe name_despoina name_madeleine name_agnes name_pelagia name_stephanie name_xenia name_zenaida name_thomai name_parthena
+		name_frossina name_marigo name_kyriaki name_evgenia name_anisa name_ifigenia name_stasia name_elpidho name_fevronia name_kharisa name_margaret
+		name_evandhia name_dhomni name_avgi name_theofano name_penelopi name_chrysoula name_ioulia name_melpo name_olgitsa name_ourania name_rhodanthi
+		name_styliani name_trifilia name_khrysafi name_angelica name_dhomna name_kalliopi name_eirinako
+		Bedukhæ Khyzmydæ Saynagon Aguyndæ Allæ Arianæ Bæga Žerassæ Lira Rukhsalana Rukhsana Rusana Šatanaya Veronikæ Zarina Zinæ  
+		Adaža Alda Altun Atsyrukhs Baia Bedisa Borena Burudukan Duda Eliso Gergana Gulchara Guranduht Kera Keratsa Ketevan_Catherine Koser Lamara Lašin Lela
+		Natia Nino Rusudan Satinik Šorena Šukhia Tamari Tinatini Tsiala Vardo Vedokha Yeran
+		# Native Alanic
+		Agoundæ Alæph Amshyl Atsæ Džerassæ Džerakhshæn Khandžerassæ Kurys Næphsh Zardous Æmizæ Bakhva Sophiæt Zairæt
+	}
+	dynasty_names = {
+		"Abisaltæ" "Bitutæ" "Badilatæ" "Tudžguantæ" "Qabantæ" "Qaradžautæ" "Qubadtæ" "Tsegentæ" "Gaguatæ" "Qanuqatæ" "Kobegkatæ" "Khorantæ" "Nadžfontæ" "Elbitæ"
+		"Æltitæ" "Asetæ" "Tsargasatæ" "Qarabuhuatæ" "Tadžmaztæ" "Qantemurtæ" "Kusagontæ" "Saraqatæ" "Chækhiltæ" "Ældattatæ" "Dudaratæ" "Džantiatæ" "Esenatæ"
+		"Quyndykhatæ" "Mamsyratæ" "Sanadžtæ" "Slonatæ" "Tlattatæ" "Tuqanatæ" "Tkhostatæ" "Qanyquatæ" "Zændžiatæ" "Aryskhantæ" "Kuydžiatæ" "Esiatæ" "Guyriatæ"
+		"Teziatæ" "Datitæ" "Datiatæ" "Tomadžtæ" "Tsælygkatæ" "Khæmætquatæ" "Tsarazonttæ" "Aguzatatæ" "Tsakhiltatæ" "Kusagontatæ" "Sidamonttæ"
+	}
+	lowborn = {
+		Bæzzæty Bestæuty Bibylty Džioty Gæbæræty Khærebæty
+	}
+	
+	# to override the default adjective and noun database for cultural works
+	#adjective = {
+	#}
+	#noun = {
+	#}
+}
+
+dagestanian_language = {
+	color = map_dagestanian
+
+	male_names = {
+		#Avar
+		name_ahmad name_ali Muhamad Muhamadkhan name_muhammad name_murad Nurmuhamad name_ramazan Rasul Ruslan Shamil Sultan
+		Abdula Abdulatip Abdusalam Ahmadkhan Alibek Amirkhan Anvar Dzhalal Gabib Gazhimagomed Gazhimurad Gadzhimurat
+		Gamzat_bek Hamzat Imanshapi Israil Kuramagomed Kurban Labazan Maksud Muslim Sagid Said Shapi Zhovhar Ziyavudin
+		#Dargin
+		Rabadan Zumrud
+		#Lak
+		Apanni Shirvani
+		#Lezgin
+		Dzhabar Elkhan Gumyush Kerim Lavkha Lifri Mehamed Mehamedali Mulkay Nakhchir Nariman Tarlan Vezirkhan
+		#Chechen
+		Abdurakhman Akhmad Anzor Aslan Aslanbek Dukvakha Dzhbrail Dzhamal Dzhokhar Ibragim Islam Islambek Khanpasha
+		Khasan Makhmud Mayrbek Mokhmad Ramzan Salambek SHamil Timur Vakha Zaur Zaurbek Zelimkhan
+		Abdulbek Abdulkhamid Abdulmezhid Abukhadzhi Abukhan Abumuslim Abusaid Abusolt Abusupyan Abuyazid Abuzar
+		Adlan Aidamir Akhyad Alimsultan Alkhazur Alvi Andarbek Apti Arbi Aset Aslambek Ayub Baudi Bekkhan Beksolta
+		Beslan Bishr Buvaisar Chingiz Danilbek Dikalu Dokka Dukkhavakha Dzhambulat Elbek Elimkhan Elmurza Kakhir
+		Khamzat Khansultan Khasanbek Khasbulat Khaso Khassan Khavazh Khazbikar Khizir Khuseyn Kuira Kuyra
+		Kyura Lecha Lema Lom Madzhid Makhdi Marvan Marzbek Mayrsolt Mekhdi Movladi Movlid Movsar Mumadi Murvan
+		Nal Nazyr Olkhazar Ortsu Qoqa Rakhman Rizvan Saidalim Salamu Shakhid Shamkhan Shamsudin Sharip Sulambek
+		Sulim Sulimbek Sulumbek Supyan Surkho Sutarbi Taimaz Takhir Taymaskhan Taymaz Tskhogal Turpal Uvays Vaharsolt
+		Vait Vakhid Valid Viskhan Viskhazhi Yakhya Yamad Yaragi Yunadi Zalimkhan Zelemkhan Zelim Zelimxan Zhovkhar
+		Ziyaudin Zubaira
+	}
+	female_names = {
+		#Avar
+		Madina Sultan
+		Abidat Aminat Khadizhat Manarsha Mesedu Muminat Patimat Rabiyat Sagidat Sakinat Zubeidat
+		#Lak
+		Asiyat Khalimat Patima
+		#Lezgin
+		Bartsalay Bitsirush Destekhanum Icher Ichinkelem Kveri Makhpur Mikhid Mulkay Nasibat Neki Nekiyat Nuriyat
+		Rafiga Simikhan Sulmaz Sultanat Suvar Taibat Tavat Tuguya
+		#Chechen
+		Aishat Khava
+		Aiza Amanat Amanta Arubika Aset Aymani Aysha Ayza Ayzanat Bekbulat Bilqiz Birlant Chovka Deshi Elbika
+		Fariza Favziyya Firdovs Hadijat Kesira Khadzhar Khafsat Khalima Khazimat Kheda Kuslum Kurbika
+		Kurzhan Makka Makkkhal Malkan Maryat Marzet Maymunat Medni Mukhazhar Nurbika Nurset Petimat Polla Rabiat
+		Raykhanat Rovzan Rukiyat Rumisa Ruqayyat Ruvayda Safiyat Sarizha Satsita Savdat Seda Shahidat
+		Shovda Sovbika Sukhayla Tabarik Taus Valida Xava Yakha Yakhita Yisa Zakhira Zakiyat Salbika Zalina
+		Zalpa Zamira Zarema Zargan Zaydat Zaynap Zelikha Zelimat Zezag Zhovkhar Zhovzan Zulay Zuleykhan
+		Zulikhan Zura
+	}
+	dynasty_names = {
+	}
+	lowborn = {
+	}
+	
+	# to override the default adjective and noun database for cultural works
+	#adjective = {
+	#}
+	#noun = {
+	#}
+}

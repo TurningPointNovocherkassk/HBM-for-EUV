@@ -1,0 +1,317 @@
+﻿armenian_culture = { #https://en.wikipedia.org/wiki/Armenians
+	language = armenian_language #https://en.wikipedia.org/wiki/Armenian_language
+	
+	color = map_ARM
+	
+	tags = { caucasian_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+		armenokipchak_culture = kindred
+	}	
+
+	culture_groups = {
+		caucasian_group
+	}	
+}
+armenokipchak_culture = { #https://en.wikipedia.org/wiki/Armeno-Kipchak_language
+	language = armenokipchak_dialect
+	
+	color = map_armenokipchak_culture
+	
+	tags = { caucasian_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+		armenian_culture = kindred
+		
+		krimchak = positive
+		karaim_culture = positive
+		
+		mikralanian_culture = positive
+		
+		romei_culture = positive
+		greek_culture = positive
+		pontic_greek_culture = positive
+		gothic_culture = positive
+		crimean = positive
+		nogai = negative
+		turkish_culture = negative
+	}	
+
+	culture_groups = {
+		caucasian_group
+	}	
+}
+
+georgian_culture = { #https://en.wikipedia.org/wiki/Georgians
+	language = georgian_language #https://en.wikipedia.org/wiki/georgian_languages
+	
+	color = map_GEO
+	
+	tags = { caucasian_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		caucasian_group
+	}
+}
+
+laz_culture = { #https://en.wikipedia.org/wiki/Laz_people
+	language = georgian_language #https://en.wikipedia.org/wiki/georgian_languages
+	
+	color = color_culture_laz
+	
+	tags = { caucasian_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+	}		
+
+	culture_groups = {
+		caucasian_group
+	}
+}
+
+mingrelian_culture = { #https://en.wikipedia.org/wiki/Mingrelians
+	language = georgian_language #https://en.wikipedia.org/wiki/georgian_languages
+	
+	color = color_culture_mingrelian
+	
+	tags = { caucasian_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+	}	
+
+	culture_groups = {
+		caucasian_group
+	}	
+}
+
+svan_culture = { #https://en.wikipedia.org/wiki/Svans
+	language = georgian_language #https://en.wikipedia.org/wiki/georgian_languages
+	
+	color = color_culture_svan
+	
+	tags = { caucasian_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+	}		
+
+	culture_groups = {
+		caucasian_group
+	}
+}
+
+circassian_culture = { #https://en.wikipedia.org/wiki/Circassians
+	language = circassian_language #https://en.wikipedia.org/wiki/Circassian_languages
+	
+	color = map_CIR
+	
+	tags = { caucasian_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+		balkar_culture = kindred
+	}		
+
+	culture_groups = {
+		caucasian_group
+	}
+}
+
+alan_culture = {
+	language = alanic_language
+	
+	color = map_ALN
+	
+	tags = { caucasian_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+		mikralanian_culture = kindred
+		jasz_culture = kindred
+	}	
+
+	culture_groups = {
+		iranian_group
+		caucasian_group
+	}	
+}
+
+mikralanian_culture = {
+	language = mikralanian_dialect
+	
+	color = map_mikralanian_culture
+	
+	tags = { caucasian_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+		greek_culture = positive
+		pontic_greek_culture = positive
+		romei_culture = positive
+		
+		alan_culture = kindred
+		jasz_culture = kindred
+		
+		urum_c_culture = positive
+		
+		crimean = neutral
+		nogai = negative
+		ligurian = neutral
+		turkish_culture = neutral
+		
+		armenian_culture = positive
+		armenokipchak_culture = positive
+	}	
+
+	culture_groups = {
+		iranian_group
+		caucasian_group
+		greek_group
+	}	
+}
+
+jasz_culture = { #https://en.wikipedia.org/wiki/Jasz_people
+	language = alanic_language
+	
+	color = map_jasz
+	
+	tags = { caucasian_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+		mikralanian_culture = kindred
+		alan_culture = kindred
+	}	
+
+	culture_groups = {
+		caucasian_group
+		iranian_group
+		carpathian_group
+	}		
+}
+
+nakh_culture = {
+	language = dagestanian_language
+	
+	color = map_nakh
+	
+	tags = { caucasian_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+
+	}	
+
+	culture_groups = {
+		caucasian_group
+	}	
+}
+
+avar_culture = {
+	language = dagestanian_language
+	
+	color = map_AVR
+	
+	tags = { caucasian_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+
+	}		
+
+	culture_groups = {
+		caucasian_group
+	}
+}
+
+dargin_culture = {
+	language = dagestanian_language
+	
+	color = map_dargin
+	
+	tags = { caucasian_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+
+	}		
+
+	culture_groups = {
+		caucasian_group
+	}
+}
+
+lak_culture = {
+	language = dagestanian_language
+	
+	color = map_lak
+	
+	tags = { caucasian_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+
+	}		
+
+	culture_groups = {
+		caucasian_group
+	}
+}
+
+lezgin_culture = {
+	language = dagestanian_language
+	
+	color = map_LEK
+	
+	tags = { caucasian_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+
+	}	
+
+	culture_groups = {
+		caucasian_group
+	}	
+}
+
+abazin_culture = {
+	language = circassian_language
+	
+	color = map_abazin
+	
+	tags = { caucasian_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+
+	}	
+
+	culture_groups = {
+		caucasian_group
+	}	
+}
+
+abkhazian_culture = {
+	language = circassian_language
+	
+	color = map_abkhazian
+	
+	tags = { caucasian_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+
+	}	
+
+	culture_groups = {
+		caucasian_group
+	}	
+}
+
+ubykh_culture = {
+	language = circassian_language
+	
+	color = map_ubykh
+	
+	tags = { caucasian_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+
+	}	
+
+	culture_groups = {
+		caucasian_group
+	}	
+}

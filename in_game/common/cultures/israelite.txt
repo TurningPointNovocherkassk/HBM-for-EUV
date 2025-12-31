@@ -1,0 +1,473 @@
+﻿ashkenazi = {
+	language = yiddish_dialect
+	
+	color = map_ashkenazi
+	
+	tags = { jewish_gfx north_german_gfx german_gfx western_european_gfx european_gfx }
+
+	opinions = {
+		beyte_yisrael = kindred
+		gurji = kindred
+		italki = kindred
+		kalimi = kindred
+		kochini = kindred
+		mizrahi = kindred
+		mustaarabi = kindred
+		qayfengi = kindred
+		romanyoti = kindred
+		sephardi = kindred
+		teimani = kindred
+		
+		angrian = positive
+		brandenburgish = positive
+		eastern_pomeranian = positive
+		eastphalian = positive
+		holsatian = positive
+		lower_saxon = positive
+		markish = positive
+		prussian = positive
+		western_pomeranian = positive
+		westphalian = positive
+		east_franconian = positive
+		low_franconian = positive
+		moselle_franconian = positive
+		rhine_franconian = positive
+		ripuarian_franconian = positive
+		saxon = positive
+		danube_bavarian = positive
+		high_alemannic = positive
+		rhine_alemannic = positive
+		southern_bavarian = positive
+		swabian = positive
+		upper_palatine = positive
+		frisian = positive
+		walloon = positive
+	}
+	
+	culture_groups = {
+		german_group
+		jewish_group
+	}
+	
+	use_patronym = yes
+}
+
+beyte_yisrael = { #https://en.wikipedia.org/wiki/Beta_Israel
+	language = agaw_language # Kayla and Qwara
+	
+	color = map_semien
+	
+	tags = { east_african_gfx african_gfx }
+
+	opinions = {
+		ashkenazi = kindred
+		gurji = kindred
+		italki = kindred
+		kalimi = kindred
+		kochini = kindred
+		mizrahi = kindred
+		mustaarabi = kindred
+		qayfengi = kindred
+		romanyoti = kindred
+		sephardi = kindred
+		teimani = kindred
+	}	
+	
+	culture_groups = {
+		ethiopian_group
+		jewish_group
+	}
+
+	use_patronym = yes
+}
+
+gurji = {
+	language = georgian_language # Judeo-Georgian
+	
+	color = map_gurji
+	
+	tags = { jewish_gfx caucasian_gfx east_mediterranean_gfx european_gfx }
+
+	opinions = {
+		ashkenazi = kindred
+		italki = kindred
+		kalimi = kindred
+		kochini = kindred
+		mizrahi = kindred
+		mustaarabi = kindred
+		qayfengi = kindred
+		romanyoti = kindred
+		sephardi = kindred
+		teimani = kindred
+
+		georgian_culture = kindred
+		armenian_culture = positive
+	}	
+	
+	culture_groups = {
+		jewish_group
+		caucasian_group
+	}
+
+	use_patronym = yes
+}
+
+italki = {
+	language = lombard_dialect # Italki
+	
+	color = map_italki
+	
+	tags = { jewish_gfx north_italian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+		ashkenazi = kindred
+		gurji = kindred
+		kalimi = kindred
+		beyte_yisrael = kindred
+		kochini = kindred
+		mizrahi = kindred
+		mustaarabi = kindred
+		qayfengi = kindred
+		romanyoti = kindred
+		sephardi = kindred
+		teimani = kindred
+	}	
+	
+	culture_groups = {
+		jewish_group
+		italian_group
+	}
+
+	use_patronym = yes
+}
+
+kalimi = {
+	language = persian_language # Judeo-Persian
+	
+	color = map_kalimi
+	
+	tags = { jewish_gfx persian_gfx persianate_gfx middle_east_gfx }
+
+	opinions = {
+		ashkenazi = kindred
+		gurji = kindred
+		italki = kindred
+		kochini = kindred
+		mizrahi = kindred
+		mustaarabi = kindred
+		qayfengi = kindred
+		romanyoti = kindred
+		sephardi = kindred
+		teimani = kindred
+
+		farsi_culture = kindred
+	}	
+	
+	culture_groups = {
+		iranian_group
+		jewish_group
+	}
+
+	use_patronym = yes
+}
+
+kochini = {
+	language = malayalam_language # kochini
+	
+	color = map_kochini
+	
+	tags = { indian_gfx }
+
+	opinions = {
+		ashkenazi = kindred
+		beyte_yisrael = kindred
+		gurji = kindred
+		italki = kindred
+		kalimi = kindred
+		mizrahi = kindred
+		mustaarabi = kindred
+		qayfengi = kindred
+		romanyoti = kindred
+		sephardi = kindred
+		teimani = kindred
+	}	
+	
+	culture_groups = {
+		jewish_group
+		indian_group
+	}
+
+	use_patronym = yes
+}
+
+mizrahi = {
+	language = levantine_dialect
+	
+	color = map_ISR
+	
+	tags = { jewish_gfx middle_east_gfx }
+
+	opinions = {
+		ashkenazi = kindred
+		beyte_yisrael = kindred
+		gurji = kindred
+		italki = kindred
+		kalimi = kindred
+		kochini = kindred
+		mustaarabi = kindred
+		qayfengi = kindred
+		romanyoti = kindred
+		sephardi = kindred
+		teimani = kindred
+	}	
+	
+	culture_groups = {
+		arabic_group
+		jewish_group
+	}
+	
+	use_patronym = yes
+}
+
+mustaarabi = {
+	language = egyptian_dialect
+	
+	color = map_mustaarabi
+	
+	tags = { jewish_gfx middle_east_gfx }
+
+	opinions = {
+		ashkenazi = kindred
+		beyte_yisrael = kindred
+		gurji = kindred
+		italki = kindred
+		kalimi = kindred
+		kochini = kindred
+		mizrahi = kindred
+		qayfengi = kindred
+		romanyoti = kindred
+		sephardi = kindred
+		teimani = kindred
+	}	
+	
+	culture_groups = {
+		jewish_group
+		maghrebi_group
+	}
+	
+	use_patronym = yes
+}
+
+qayfengi = {
+	language = southern_mandarin_dialect
+	
+	color = map_qayfengi
+	
+	tags = { east_asian_gfx }
+
+	opinions = {
+		ashkenazi = kindred
+		beyte_yisrael = kindred
+		gurji = kindred
+		italki = kindred
+		kalimi = kindred
+		mizrahi = kindred
+		mustaarabi = kindred
+		kochini = kindred
+		romanyoti = kindred
+		sephardi = kindred
+		teimani = kindred
+		
+		yan_culture = positive
+		hui_muslim_culture = positive
+		jilu_culture = positive
+		jiaodong_culture = positive
+		liang_culture = positive
+		jianghuai_culture = positive
+		shu_culture = positive		
+	}	
+	
+	culture_groups = {
+		jewish_group
+		chinese_group
+	}
+
+	use_patronym = yes
+}
+
+romanyoti = {
+	language = greek_m_dialect # Romanyoti
+	
+	color = map_romanyoti
+	
+	tags = { jewish_gfx greek_gfx east_mediterranean_gfx mediterranean_gfx european_gfx }
+
+	opinions = {
+		ashkenazi = kindred
+		beyte_yisrael = kindred
+		gurji = kindred
+		italki = kindred
+		kalimi = kindred
+		kochini = kindred
+		mizrahi = kindred
+		mustaarabi = kindred
+		qayfengi = kindred
+		sephardi = kindred
+		teimani = kindred
+		
+		greek_culture = positive
+		griko_culture = positive
+		pontic_greek_culture = positive
+		gothic_culture = positive
+	}	
+	
+	culture_groups = {
+		jewish_group
+		greek_group
+	}
+
+	use_patronym = yes
+}
+
+sephardi = {
+	language = ladino_dialect # Ladin
+	
+	color = map_sephardi
+	
+	tags = { jewish_gfx castilian_gfx iberian_gfx west_mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+		ashkenazi = kindred
+		beyte_yisrael = kindred
+		gurji = kindred
+		italki = kindred
+		kalimi = kindred
+		kochini = kindred
+		mizrahi = kindred
+		mustaarabi = kindred
+		qayfengi = kindred
+		romanyoti = kindred
+		teimani = kindred
+	}	
+	
+	culture_groups = {
+		jewish_group
+		iberian_group
+	}
+	
+	use_patronym = yes
+}
+
+teimani = {
+	language = peninsular_dialect # Judeo-Yemeni
+	
+	color = map_teimani
+	
+	tags = { jewish_gfx middle_east_gfx }
+
+	opinions = {
+		ashkenazi = kindred
+		beyte_yisrael = kindred
+		gurji = kindred
+		italki = kindred
+		kalimi = kindred
+		kochini = kindred
+		mizrahi = kindred
+		mustaarabi = kindred
+		qayfengi = kindred
+		romanyoti = kindred
+		sephardi = kindred
+		yemeni_culture = positive
+	}	
+	
+	culture_groups = {
+		jewish_group
+		arabian_group
+		arabic_group
+	}
+	
+	use_patronym = yes
+}
+
+karaim_culture = {
+	language = crimean_jew_dialect # https://en.wikipedia.org/wiki/Crimean_Karaites #Qaraylar
+	
+	color = map_karaim_culture
+	
+	tags = { jewish_gfx greek_gfx east_mediterranean_gfx mediterranean_gfx european_gfx }
+
+	opinions = {
+		ashkenazi = positive
+		beyte_yisrael = positive
+		gurji = positive
+		italki = positive
+		kalimi = positive
+		kochini = positive
+		mizrahi = positive
+		mustaarabi = positive
+		qayfengi = positive
+		sephardi = positive
+		teimani = positive
+		
+		krimchak_culture = positive
+		
+		romei_culture = positive
+		greek_culture = positive
+		pontic_greek_culture = positive
+		gothic_culture = positive
+		armenokipchak_culture = positive
+		armenian_culture = positive
+		crimean = positive
+		nogai = negative
+		turkish_culture = positive
+	}	
+	
+	culture_groups = {
+		jewish_group
+		tatar_group
+		turkic_group
+	}
+
+	use_patronym = yes
+}
+krimchak_culture = {
+	language = crimean_jew_dialect # https://en.wikipedia.org/wiki/Krymchaks #Srel balalary
+	
+	color = map_krimchak_culture
+	
+	tags = { jewish_gfx greek_gfx east_mediterranean_gfx mediterranean_gfx european_gfx }
+
+	opinions = {
+		ashkenazi = kindred
+		beyte_yisrael = kindred
+		gurji = kindred
+		italki = kindred
+		kalimi = kindred
+		kochini = kindred
+		mizrahi = kindred
+		mustaarabi = kindred
+		qayfengi = kindred
+		sephardi = kindred
+		teimani = kindred
+		
+		karaim_culture = positive
+		
+		romei_culture = positive
+		greek_culture = positive
+		pontic_greek_culture = positive
+		gothic_culture = positive
+		armenokipchak_culture = positive
+		armenian_culture = positive
+		crimean = positive
+		nogai = negative
+		turkish_culture = positive
+	}	
+	
+	culture_groups = {
+		jewish_group
+		tatar_group
+		turkic_group
+	}
+
+	use_patronym = yes
+}

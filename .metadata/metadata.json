@@ -1,0 +1,11 @@
+﻿{
+	"name":	"Historial Bloat Mod",
+	"id":	"Benisman",
+	"version":	"1.0",
+	"supported_game_version":	"1.0.1",
+	"short_description":	"Bloats the game with stuff that don't work. \nThe racist mod you know and love.",
+	"tags":	["Map", "Translation"],
+	"relationships":	[],
+	"game_custom_data":	{
+}
+}

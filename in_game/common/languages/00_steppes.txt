@@ -1,0 +1,125 @@
+﻿
+kipchak_language = { #https://en.wikipedia.org/wiki/Kipchak_languages
+#Represents a language group: Contains Kazakh, Kyrgyz and Tatar
+color = color_language_kipchak
+
+	family = turkic_language_family
+
+male_names = {
+	Azamat Adilet Ayyub Bacman Qacir Koten Qalawun name_baybars Aktai Aslan Aslanbek
+	#Kazakh
+	Alikhan Alisher Bolat Bulat Erasyl Nurasyl Serik 
+	#Tatar
+	Ravil
+	#Kyrgyz
+	Adis Aibek Alik Almaz Asan Azat Aziz Bakyt Bekjan 
+	Bolot Chingiz Damir name_emil Esel Ermek name_elias Islambek Izatbek Jyral 
+	Kuban Kylych Mirbek Nurbek Nurlan Nurdeen Omar Prince Sultan 
+	Timurbek Usen Ulan Yajub Zamir
+}	
+female_names = {
+	Dinara Gauhar Saltanat Sezim Zarina
+	#Kazakh
+	Aiday Aigerim Aiman Aina Anar Anara Anargul Aruzhan Asel Ayaulym Aygerim 
+	Ayna Bibigul Inkar Inzhu Madina Saule 
+	Zhuldyz
+	#Tatar
+	Alfia Alfiya
+	#Kyrgyz
+	Adel Adinai Aida Aidai Aidana Aidina Aigul Aijamal Ailin Ainura 
+	Aima Aisulu Aiza Akmaral Aliya Altynai Ayana Aziza Azem 
+	Baktigul Begaiym Begimai Cholpon Cholponai Diana Dariga Darixa Dayana 
+	Dilara Dimira Eldana Elina Elgiza Erkaiym Gulsana Gulzat 
+	Jamilya Kanykei Kauhar Kunduz Keres name_leyla Mirgul Nargiza Nazgul 
+	Nazira Gulperi Nurayda Nurjamal Nurzat Saikal
+	Zamira
+}
+dynasty_names = {
+}
+lowborn = {
+}
+
+# to override the default adjective and noun database for cultural works
+#adjective = {
+#}
+#noun = {
+#}
+
+	dialects = {
+		kipchak_dialect = {
+		}
+		urum_c_dialect = {
+			male_names = {
+				name_aaron name_adam name_alexander name_alexis name_andrew name_anthony name_barnabas name_bartholomew name_basil
+				name_christopher name_constantine name_cyriac name_cyril name_daniel name_david name_demetrius name_elias name_emmanuel
+				name_george name_hermes name_isaac name_ishmael name_james name_jesus name_job name_john name_jonas name_joseph name_lazarus
+				name_leon name_lucas name_mark name_matthew name_michael name_moses name_nicholas name_noah name_panagiotis name_paul name_peter
+				name_philip name_prokop name_roman name_saba name_samuel name_sebastian name_seth name_silas name_simeon name_salomon name_stephen
+				name_thaddeus name_theodore name_thomas name_timothy name_trofim name_seraphin name_blaise name_clement name_paraskevi name_ephraim
+				name_nazar name_nicetas name_nicodemus name_nikephoros name_theophylact name_anatoly name_athanasius name_damian name_cosmas
+				name_macarius name_panteleimon
+			}
+			female_names = {
+				name_aisha name_anna name_catherine name_christine name_elizabeth name_ester name_eve name_fatima name_hagar name_helen name_irene
+				name_leah name_lydia name_mary name_phoebe name_priscilla name_rachel name_rebecca name_ruth name_sara name_sebastianne name_sophia
+				name_susan name_tabitha name_theodora name_zenobia name_zoe name_despoina name_madeleine name_agnes name_christine name_pelagia
+				name_stephanie name_xenia name_zenaida
+			}
+			dynasty_names = {
+				"Misail" "Pavlı" "Zahari" "Andri" "Hristofor" "Eqonomi" "Filipi" "Yanni" "Qostanin" "Lazari" "Marqi" "Niqola" "Savvi" "Teodori" "Vulgari"
+				"Yannaqa" "Angelı" "Foti" "Yalu" "Yordani" "Qaraca" "Lambro" "Manuso" "Nerantzi" "Vlaho" "Qsira" "Ypsilantis" "Zerva" "Arvanitis" "Balı"
+				"Daras" "Farma" "Giqa" "Halas" "İaqovi" "Lasqaris" "Mavri" "Nturas" "Bereketlı" "Proqop" "Sinaslı" "Qayı" "Bayındır" "Bozok" "Üçök" "Qınıq"
+				"Avşar" "Peçeneq" "Quman" "Alp" "Aslan" "Batu" "Oğuz" "Urumlu" "Rumeqi" "Rumlar" "Qarasionidis"
+			}
+			lowborn = {
+				"Bereketçi" "Hanende" "Yorgiyadi" "Papadis" "Hacıyani" "Bekyar" "Delı" "Eftaxi" "Oiqonomo" "Papayorgi" "Rapti" "Sari" "Çaqıris" "Hronaqi"
+				"Ququnis" "Orfanidis" "Pitaraqi" "Rizos" "Sqordas" "Halqiyadis" "Çiftçi" "Yusufzade" "İbrahimoğlu" "Musaoğlu" "Davutoğlu" "Yunosoğlu"
+				"İsmailzade" "Süleymanzade" "Ademoğlu" "Meryemzade" "Nuhzade" "İşaqzade" "Samuilzade" "Danyalzade"
+			}
+		}
+		armenokipchak_dialect = {
+			male_names = {
+				name_gregory name_sergius name_john name_theodore name_peter name_james name_apostolos name_baptiste name_george name_harut name_vartan
+				name_elias name_stephen name_stavros name_david name_manuk name_basil name_mesrop name_joseph name_isaac name_abraham name_moses name_aaron
+				name_jonas name_noah name_ishmael name_salomon name_job name_adam name_meryemoglu name_paul name_aslan name_alp name_demir name_boga
+			}
+			female_names = {
+				name_mary name_sara name_asli name_selcan name_gunel name_deniz name_fatima name_aisha name_melike name_sirpuhi name_verjin name_perchuhi
+				name_satenig name_knkush name_yeprakse name_shushan name_lusin name_arshaluys name_taguhi name_zaruhi name_virginia name_anahit name_qinqus
+				name_yepraksi name_susan name_arsalu name_ester name_zenobia name_eve
+			}
+			dynasty_names = {
+				"Derderian" "Der-Qevorq" "Der-Qirqor" "Der-Bedros" "Der-Hovhannes" "Bereqetlı" "Hanende" "Delı" "Boğa" "Boğos"
+			}
+			lowborn = {
+				"Haçiqyan" "Agopyan" "Sarqisyan" "Torosyan" "Qarabetian" "Migirdiçyan" "Qevorqyan" "Vartanyan" "Araqelyan" "Ohannesyan" "Bedrosyan" "Harutyunyan"
+				"Asdvadzaduryan" "Manuqyan" "Parseğyan" "Mesropyan" "Haçaturyan" "Aslanyan" "Alpyan" "Boğosyan" "Demirciyan" "Çiftçiyan" "Bereqetciyan" "Eftaqsi"
+				"Qürkçü" "Quyumcu" "Terziyan" "Yusufyan" "İbrahimyan" "Musayan" "Davudyan" "Yunosyan" "İsmailyan" "Süleymanyan" "Ademyan" "Meryemyan" "Eyüpyan"
+				"Hıdıryan"
+			}
+		}
+		crimean_jew_dialect = {
+			male_names = {
+				name_abiyatar name_ahiya name_aqabon name_alon name_amit name_amram name_ananel name_ananiy name_aret name_aristobul name_azriqam name_baraq
+				name_baruh name_belsasar name_kostobar name_deror name_dori name_eyran name_eliezer name_erotem name_ezra name_hades name_herod name_hilel
+				name_hirqan name_yannay name_yoazar name_joseph name_yusiyad name_qahan name_hodeviya name_honiy name_meyir name_naum name_natan name_nehemya
+				name_nikanor name_nir name_obadiya name_ofer name_omriy name_pinhos name_faniya name_fasail name_raanan name_maliq name_menasse name_noga
+				name_samgar name_samay name_saul name_semaya name_semida name_silas name_simeyon name_sosa name_talmon name_tarfon name_tuvya name_yair name_john
+				name_zadoq
+			}
+			female_names = {
+				name_adena name_adiy name_adva name_ahuva name_alexandra name_aliza name_alte name_ariye name_aser name_basiya name_boaz name_hana name_kipra
+				name_danya name_dara name_dina name_doris name_dov name_devora name_eliseva name_ester name_galya name_galit name_leya name_liat name_liora
+				name_mahla name_maryam name_marniy name_maya name_meytal name_menahem name_milka name_naama name_nihal name_nava name_nisa name_ora name_orit
+				name_oser name_rahila name_raysa name_rivka name_salampis name_sara name_sayna name_tamara name_tirtsa name_yael name_yohoved
+			}
+			dynasty_names = {
+				"Abiyatarlı" "Aqabonlı" "Amitlı" "Amramlı" "Boazlı" "Dorlı" "Davutlu" "Eiranlı" "Eliezerlı" "Herodlu" "Honilı" "Hilellı" "Yoazlı" "Qahanlı"
+				"Naumlı" "Nirlı" "Nogalı" "Oferlı" "Omirliy" "Pinhoslı" "Raananlı" "Semidelı" "Yairlı"
+			}
+			lowborn = {
+				"Qohen" "Levi" "Gabay" "Hazzan" "Rabilı" "Dayanlı" "Melamedlı" "Şamaslı"
+			}
+		}
+	}
+}

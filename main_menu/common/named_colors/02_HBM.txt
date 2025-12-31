@@ -1,0 +1,14 @@
+﻿
+colors = {
+	color_culture_rum = rgb { 10 31 51 }
+	color_urum_c_culture = rgb { 10 17 34 }
+	map_romei_culture = rgb { 113 155 167 }
+	map_karaim_culture = rgb { 110 151 153 }
+	map_krimchak_culture = rgb { 57 131 157 }
+	map_armenokipchak_culture = rgb { 129 86 90 }
+	map_mikralanian_culture = rgb { 153 131 132 }
+	map_anglo_saxon = hsv360 { 350 89 70 }
+	map_ubykh = rgb { 76 216 239 }
+	color_culture_sabian = rgb { 78 117 41 }
+}
+

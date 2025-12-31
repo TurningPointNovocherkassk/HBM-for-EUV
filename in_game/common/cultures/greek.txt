@@ -1,0 +1,281 @@
+﻿cappadocian_greek_culture = {
+	
+	language = cappadocian_greek_dialect
+	
+	color = color_culture_cappadocian_greek
+	
+	tags = { greek_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+		greek_culture = kindred
+		griko_culture = positive
+		pontic_greek_culture = kindred
+		gothic_culture = positive
+		rum_culture = kindred
+		romei_culture = positive
+		
+		turkish_culture = negative
+		turkoman_culture = neutral
+		
+		romanyoti = neutral
+		
+		armenian_culture = positive
+		
+		georgian_culture = neutral
+		laz_culture = positive
+		mingrelian_culture = neutral
+		svan_culture = neutral
+		
+		syriac_culture = positive
+		coptic_culture = neutral
+	}
+	
+	culture_groups = {
+		greek_group
+		#anatolian_group
+	}
+}
+
+rum_culture = { #transitional from greek to turkish, line wasn't still blurred and constituted a bulk of the settled populace in anatolia because fuck you
+	
+	language = rum_turkish_dialect
+	
+	color = color_culture_rum
+	
+	tags = { greek_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+		cappadocian_greek_culture = kindred
+		greek_culture = positive
+		griko_culture = positive
+		pontic_greek_culture = positive
+		gothic_culture = positive
+		romei_culture = positive
+		
+		turkish_culture = positive
+		turkoman_culture = neutral
+		
+		romanyoti = neutral
+		
+		armenian_culture = positive
+		
+		georgian_culture = neutral
+		laz_culture = neutral
+		mingrelian_culture = neutral
+		svan_culture = neutral
+		
+		syriac_culture = positive
+		coptic_culture = neutral
+	}
+	
+	culture_groups = {
+		greek_group
+		turkic_group
+		#anatolian_group
+	}
+}
+
+urum_c_culture = { #https://en.wikipedia.org/wiki/Urums
+	
+	language = urum_c_dialect
+	
+	color = color_urum_c_culture
+	
+	tags = { greek_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+		rum_culture = kindred
+		cappadocian_greek_culture = positive
+		greek_culture = kindred
+		griko_culture = positive
+		pontic_greek_culture = positive
+		gothic_culture = kindred
+		romei_culture = kindred
+		
+		crimean = positive
+		nogai = negative
+		
+		armenian_culture = positive
+		armenokipchak_culture = positive
+		alan_culture = positive
+		
+		karaim_culture = positive
+		krimchak_culture = positive
+		
+		ligurian = positive
+	}
+	
+	culture_groups = {
+		greek_group
+		tatar_group
+		turkic_group
+	}
+}
+
+greek_culture = {
+	language = greek_m_dialect
+	
+	color = map_BYZ
+	
+	tags = { greek_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+		romei_culture = kindred
+		cappadocian_greek_culture = kindred
+		griko_culture = kindred
+		pontic_greek_culture = kindred
+		gothic_culture = positive
+		rum_culture = positive
+		
+		arvanite = positive
+		dalmatian = positive
+		
+		turkish_culture = negative
+		turkoman_culture = negative
+		
+		romanyoti = neutral
+		
+		armenian_culture = neutral
+		
+		georgian_culture = positive
+		laz_culture = positive
+		mingrelian_culture = positive
+		svan_culture = neutral
+		
+		syriac_culture = neutral
+		coptic_culture = neutral
+	}	
+	
+	culture_groups = {
+		greek_group
+	}
+}
+
+griko_culture = {
+	language = italiot_greek_dialect
+	
+	color = color_culture_griko
+	
+	tags = { greek_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+		cappadocian_greek_culture = positive
+		pontic_greek_culture = positive
+		gothic_culture = positive
+		rum_culture = positive
+		neapolitan = positive
+		sicilian = positive
+		maltese = positive
+		romei_culture = positive
+	}	
+	
+	culture_groups = {
+		greek_group
+		italian_group
+	}
+}
+
+pontic_greek_culture = {
+	
+	language = pontic_greek_dialect
+	
+	color = color_culture_pontic_greek
+	
+	tags = { greek_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+		romei_culture = kindred
+		greek_culture = kindred
+		griko_culture = positive
+		cappadocian_greek_culture = positive
+		gothic_culture = kindred
+		rum_culture = positive
+		
+		turkish_culture = negative
+		turkoman_culture = negative
+		
+		romanyoti = neutral
+		
+		armenian_culture = positive
+		
+		georgian_culture = kindred
+		laz_culture = kindred
+		mingrelian_culture = kindred
+		svan_culture = positive
+	}
+	
+	culture_groups = {
+		greek_group
+		caucasian_group
+	}
+}
+
+gothic_culture = {
+	
+	language = gothic_dialect
+	
+	color = map_FEO
+	
+	tags = { greek_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+		greek_culture = positive
+		griko_culture = positive
+		cappadocian_greek_culture = positive
+		pontic_greek_culture = positive
+		rum_culture = positive
+		urum_c_culture = kindred
+		romei_culture = kindred
+		
+		crimean = neutral
+		nogai = negative
+		
+		armenian_culture = positive
+		armenokipchak_culture = positive
+		alan_culture = positive
+		mikralanian_culture = positive
+	}
+	
+	culture_groups = {
+		greek_group
+		german_group
+		scandinavian_group
+	}
+}
+
+romei_culture = {
+	
+	language = pontic_greek_dialect
+	
+	color = map_romei_culture
+	
+	tags = { greek_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+		greek_culture = kindred
+		griko_culture = positive
+		cappadocian_greek_culture = kindred
+		pontic_greek_culture = kindred
+		gothic_culture = kindred
+		rum_culture = positive
+		
+		turkish_culture = negative
+		turkoman_culture = negative
+		
+		romanyoti = neutral
+		
+		urum_c_culture = positive
+		
+		crimean = neutral
+		nogai = negative
+		
+		armenian_culture = positive
+		armenokipchak_culture = positive
+		alan_culture = positive
+		mikralanian_culture = positive
+	}
+	
+	culture_groups = {
+		greek_group
+	}
+}
