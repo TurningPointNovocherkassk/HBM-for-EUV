@@ -1,4 +1,4 @@
-```
+<div align="center">```
           _____                    _____                    _____          
          /\    \                  /\    \                  /\    \         
         /::\____\                /::\    \                /::\____\        
@@ -20,7 +20,7 @@
         /:::/    /              \::::/    /               /:::/    /       
         \::/    /                \::/____/                \::/    /        
          \/____/                  ~~                       \/____/
-```
+```</div>
                                                                            
 
 THIS IS THE HISTORICAL BLOAT MOD FOR EUROPA UNIVERSALIS V
@@ -33,7 +33,7 @@ THE MOD CHANGES THE FOLLOWING:
 - ADDED A PLETHORA OF NEW PROVINCES TO THE BLACK SEA BASIN - ESPECIALLY IN CRIMEA AND NW CAUCASUS, AS WELL AS THE PONTUS AND PAPHLAGONIA TO BETTER REPRESENT THE RUGGED TERRAIN. EXPECT MORE IMPASSABLE TILES, MY FAVORITE BEING THE LYKOS (KELKIT FOR THOSE MORE INCLINED TOWARD THE BLATTOIDS) BASIN WHICH BECOMES SOMEWHAT OP LIKE IRL, MINERALLY-RICH ALONG THE UPPER-REACHES AND WITH A BIG AGRONOMIC POTENTIAL ALONG THE LOWER ELEVATIONS. PAPHLAGONIA TOO WAS REWORKED IN THIS MANNER, BECOMING THE TRUE CASTRUM OF THE KOMNENOI.
 - ADDED SEVERAL NEW AFOREMENTIONED CULTURES AND SPLIT THE 'HELLENIC' LANGUAGES, AS WELL AS THE NEW TURKIC CHRISTIAN 'DIALECTS' (WHICH I'VE ONLY ADDED TO GIVE RUMLU/URUM BETTER TURKIFIED CHRISTIAN NAMES)
 
-```
+<div align="center">```
 --=+*%%%%%%%%%%%#*+###**+==*#%%#+==-##%%%#*-+%#*#==*##+--+=###*---=###=--=*###++++==+==++======+++**
 -=+**********%%%%%#**%##*+==*###*+==+#%%%##+#%%%%**%%%*=-+++**+:::*##+-==*#**=-:-=**#+==++=::-==-==+
 -=---=+**++=:-=%%%%##*%##*+==****+===#%%%#*-=+===-+#@@#+=*##**=::=##*--=*#*+-:+##%%%%*+==-=+==-=++==
@@ -82,4 +82,4 @@ THE MOD CHANGES THE FOLLOWING:
 #######****++++++**==++****####%%%%%%###*+++++=======----====+*=---=***++===--:::::::--------::::::-
 ++++++=++++++****#*+=+++****####%%%%%%%%####****++*+++++++++*+==---+##**+===--:::::::--------:::..:-
 +++++=++++++*******+=+++++****######%%%%%%%%%%%###########*++==----+##***++++++===============-----=
-```
+```</div>
