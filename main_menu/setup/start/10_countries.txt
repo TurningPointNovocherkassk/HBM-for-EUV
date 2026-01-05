@@ -31248,6 +31248,8 @@ countries = {
 
 		tolerated_cultures = {
 			greek_culture
+			rum_culture
+			turkoman_culture
 		}
 
 		capital = alaiye
@@ -31358,6 +31360,8 @@ countries = {
 
 		tolerated_cultures = {
 			pontic_greek_culture
+			rum_culture
+			turkoman_culture
 		}
 	}
 
@@ -31464,6 +31468,7 @@ countries = {
 
 		capital = kastamonu
 		religious_school = mevlevi_school
+		
 		tolerated_cultures = {
 			pontic_greek_culture
 			rum_culture
@@ -31607,6 +31612,10 @@ countries = {
 		capital = kozluk #Erzen
 		religious_school = maturidi_school #Widespread among the Turks together with Hanafi
 		court_language = persian_language
+		
+		tolerated_cultures = {
+			kurdish_culture
+		}
 	}
 
 	#Dulkadirids - DUL https://en.wikipedia.org/wiki/Dulkadirids
@@ -31614,11 +31623,10 @@ countries = {
 		own_control_core = {
 			gerger kahta samsat
 			besni elbistan enguzud goksun afsin
-			kaysun
 			ulnia
 		}
 		own_control_integrated = {
-			marash
+			marash kaysun
 		}
 
 		include = "expl_eastern_europe"
@@ -31868,6 +31876,7 @@ countries = {
 		}
 		tolerated_cultures = {
 			cappadocian_greek_culture
+			rum_culture
 			turkoman_culture
 		}
 
