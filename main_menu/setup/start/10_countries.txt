@@ -4331,11 +4331,12 @@ countries = {
 	GAZ = {	# Gazaria
 		own_control_core = {
 			kaffa vosporo #Black Sea
-			soldaia qamis_burun taman
+			soldaia taman
+			tana
 		}
 
 		own_control_integrated = {
-			tana
+			qamis_burun
 			mapa susaco costa
 			
 			khadjibey cetatea_alba chilia
@@ -12912,6 +12913,7 @@ countries = {
 
 		tolerated_cultures = {
 			aromanian
+			pontic_greek_culture
 		}
 
 		liturgical_language = greek_m_dialect
@@ -31361,7 +31363,7 @@ countries = {
 		tolerated_cultures = {
 			pontic_greek_culture
 			rum_culture
-			turkoman_culture
+			turkish_culture
 		}
 	}
 
@@ -31752,6 +31754,7 @@ countries = {
 		tolerated_cultures = {
 			greek_culture
 			turkoman_culture
+			rum_culture
 		}
 
 		capital = uluborlu
@@ -32574,6 +32577,7 @@ countries = {
 
 		tolerated_cultures = {
 			greek_culture
+			rum_culture
 		}
 
 		capital = antalya
@@ -32748,6 +32752,7 @@ countries = {
 		tolerated_cultures = {
 			greek_culture
 			turkoman_culture
+			rum_culture
 		}
 
 		capital = bursa
@@ -57557,6 +57562,7 @@ countries = {
 		}
 
 		tolerated_cultures = {
+			abazin_culture
 		}
 
 		capital = kuzhyb

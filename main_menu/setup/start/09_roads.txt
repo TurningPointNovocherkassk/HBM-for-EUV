@@ -832,7 +832,6 @@ road_network = {
 	sariyahsi = karakecili
 	sariyahsi = kochisar
 	aksaray = kochisar
-	trebizond = gumushane
 	trebizond = macka
 	macka = gumushane
 	cayiryolu = gumushane

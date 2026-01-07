@@ -3462,7 +3462,7 @@ building_manager = {
 	
 	tar_kiln = { tag = TVS level = 1 location = tavas } 
 	tar_kiln = { tag = GRM level = 1 location = gediz } 
-	tar_kiln = { tag = BFR level = 1 location = gerze } 
+	#tar_kiln = { tag = BFR level = 1 location = gerze } 
 	#castle = { tag = BYZ level = 1 location = alasehir } #it's a greek_town which already has a castle
 	#temple = { tag = AYD level = 1 location = birgi }
 	#temple = { tag = KAR level = 1 location = ermenek }
@@ -3903,7 +3903,7 @@ building_manager = {
 	stockade = { tag = DIL level = 1 location = kozluk }
 	stockade = { tag = DUL level = 1 location = gerger }
 	stockade = { tag = ERE level = 1 location = arapgir }
-	castle = { tag = HCI level = 2 location = sebinkarahisar }
+	castle = { tag = HCI level = 1 location = sebinkarahisar }
 	stockade = { tag = HSN level = 1 location = savur }
 	stockade = { tag = HSN level = 1 location = hasankeyf }
 	stockade = { tag = SUT level = 1 location = palu }
@@ -4219,7 +4219,6 @@ building_manager = {
 	#HBM Crimea stuff - buildings
 	mason = { tag = FEO level = 1 location = chersonesos }
 	clay_pit = { tag = FEO level = 1 location = phoullai }
-	stone_quarry = { tag = FEO level = 1 location = chersonesos }
 	#market_village	= { tag = GLH level = 1 location = bakhchysarai }
 	castle = { tag = FEO level = 1 location = theodoro } #Mangup
 	castle = { tag = FEO level = 1 location = qirq_yer } #Chufut-Kale
@@ -4322,7 +4321,6 @@ building_manager = {
 	hospital = { tag = AHI level = 1 location = ankara }
 	
 	madrasa = { tag = KAR level = 1 location = konya }
-	hospital = { tag = KAR level = 1 location = konya }
 	
 	madrasa = { tag = KAR level = 1 location = alaiye }
 	
